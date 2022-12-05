@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "531525381269",
+    "project_id": "provenirsteakehouse",
+    "storage_bucket": "provenirsteakehouse.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:531525381269:android:8850cb785240d6ac11bf9c",
+        "android_client_info": {
+          "package_name": "com.danielhernandez.aplicacionvendedor"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "531525381269-sphb5u7dp7onfqnhlai75r2kjg2psmaj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA-bRIatca-9b2rz4dol1W0_XlQy4x66t0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "531525381269-sphb5u7dp7onfqnhlai75r2kjg2psmaj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
